@@ -1,0 +1,19 @@
+{
+  "licencias": [
+    {
+      "id": "V12345678",
+      "nombre": "Juan Pérez",
+      "activo": true
+    },
+    {
+      "id": "V87654321",
+      "nombre": "María González",
+      "activo": true
+    },
+    {
+      "id": "V11223344",
+      "nombre": "Pedro Martínez",
+      "activo": false
+    }
+  ]
+}
